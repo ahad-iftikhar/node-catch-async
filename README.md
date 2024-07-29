@@ -1,7 +1,8 @@
 # node-catch-async
 
-A package for node.js to get rid of try-catch block.
-Just wrap your function within this funtion and write asynchronous code withour any worri. It will automatically catch your error.
+A package for node.js to get rid of the try-catch block.
+You can just wrap your function within this function and write asynchronous code without worry.
+ It will automatically catch your error.
 
 ## Installation
 
